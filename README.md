@@ -1,3 +1,7 @@
+# Palindrome Detector App
+
+[live link](https://stark-ocean-67193.herokuapp.com/check)
+
 ## Built With
 
 - **Ruby**
