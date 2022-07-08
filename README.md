@@ -11,8 +11,8 @@
 Clone the project, make sure you have ruby installed and you are good to go. After cloning the repo, follow these steps to get the app working:
 
 `$ bundle install`
-`$ bundle exec rake`           # Verifies that the test suite is green
-`$ bundle exec rerun app.rb`   # Runs the app on http://localhost:4567
+`$ bundle exec rake`           
+`$ bundle exec rerun app.rb`  
 
 ## Author
 
